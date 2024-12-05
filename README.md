@@ -1,0 +1,1 @@
+# 3-column-spin-1-resummation-based-SSE
